@@ -2,6 +2,7 @@
 Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807.00734.pdf)
 
 ## Summary
+***"the discriminator estimates the probability that the given real data is more realistic than fake data, on average"***
 ### Idea
 ![idea](./assests/idea.png)
 
