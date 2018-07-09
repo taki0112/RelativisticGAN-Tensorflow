@@ -28,6 +28,16 @@ Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807
 **RaHingeGAN**| <img src = './assests/formulation/RaHingeGAN.png' height = '120px'>
 
 ## Results
+* 128x128 celebA
+* 200k iterations (but, 100k iteration is also enough)
+* **RaDRAGAN** is not in the paper, I just tried because I wanted to do it.
+* 256x256 celebA is being training, but quality is not good...
+
+### RaGAN
+
+### RaLSGAN
+
+### RaDRAGAN
 
 ## Author
 Junho Kim
