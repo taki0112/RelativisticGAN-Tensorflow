@@ -38,10 +38,13 @@ Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807
 * 256x256 celebA is being training, but quality is not good...
 
 ### RaGAN
+![RaGAN](./assests/RaGAN.png)
 
 ### RaLSGAN
+![RaLSGAN](./assests/RaLSGAN.png)
 
 ### RaDRAGAN
+![RaDRAGAN](./assests/RaDRAGAN.png)
 
 ### RaHingeGAN (in training)
 
