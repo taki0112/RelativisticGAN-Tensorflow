@@ -5,6 +5,30 @@ Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807
 * For 256x256, the network does not generate the image properly. (DCGAN Architecture)
 * I think, `RaDRAGAN` more better than `RaLSGAN`
 
+## Usage
+### dataset
+
+```python
+> python download.py celebA
+```
+
+* `mnist` and `cifar10` are used inside keras
+* For `your dataset`, put images like this:
+
+```
+├── dataset
+   └── YOUR_DATASET_NAME
+       ├── xxx.jpg (name, format doesn't matter)
+       ├── yyy.png
+       └── ...
+```
+
+### train
+* python main.py --phase train --dataset celebA --Ra True --gan_type dragan
+
+### test
+* python main.py --phase test --dataset celebA --Ra True --gan_type dragan
+
 ## Summary
 ***"the discriminator estimates the probability that the given real data is more realistic than a randomly sampled fake data"*** 
 
