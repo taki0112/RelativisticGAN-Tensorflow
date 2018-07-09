@@ -4,7 +4,6 @@ Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807
 ## Summary
 ### Idea
 ![idea](./assests/idea.png)
-![example](./assests/example.png)
 
 ### Formulation
 *Name* | *Formulation*
