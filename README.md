@@ -1,6 +1,10 @@
 # RelativisticGAN-Tensorflow
 Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807.00734.pdf)
 
+## Issue
+* For 256x256, the network does not generate the image properly. (DCGAN Architecture)
+* I think, RaDRAGAN more better than RaLSGAN
+
 ## Summary
 ***"the discriminator estimates the probability that the given real data is more realistic than a randomly sampled fake data"*** 
 
