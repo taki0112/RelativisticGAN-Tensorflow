@@ -39,5 +39,9 @@ Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807
 
 ### RaDRAGAN
 
+### RaGAN-GP (in training)
+
+### RaHingeGAN (in training)
+
 ## Author
 Junho Kim
