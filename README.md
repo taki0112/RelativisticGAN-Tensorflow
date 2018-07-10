@@ -70,7 +70,8 @@ Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807
 ### RaDRAGAN
 ![RaDRAGAN](./assests/RaDRAGAN.png)
 
-### RaHingeGAN (in training)
+### RaHingeGAN
+![RaHingeGAN](./assests/RaHingeGAN.png)
 
 ## Author
 Junho Kim
