@@ -69,7 +69,7 @@ HingeGAN | Will be soon | <img src = './assests/RaHingeGAN.png' width = '640px' 
 DRAGAN | <img src = './assests/DRAGAN.png' width = '640px' height = '640px'> | <img src = './assests/RaDRAGAN.png' width = '640px' height = '640px'> |
 
 ## Error
-### DRAGAN
+### Original DRAGAN
 ![dragan_error](./assests/DRAGAN_error.png)
 * In the case of `DRAGAN`, the images are sometimes distorted during the training
 
