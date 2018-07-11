@@ -61,17 +61,13 @@ Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807
 * **RaDRAGAN** is not in the paper, I just tried because I wanted to do it.
 * 256x256 celebA is being training, but quality is not good...
 
-### RaGAN
-![RaGAN](./assests/RaGAN.png)
+*Name* | *Original* | *Original + Ra* |
+:---: | :---: | :---: |
+GAN | Will be soon | <img src = './assests/RaGAN.png' width = '640px' height = '640px'> |
+LSGAN | Will be soon | <img src = './assests/RaLSGAN.png' width = '640px' height = '640px'> |
+HingeGAN | Will be soon | <img src = './assests/RaHingeGAN.png' width = '640px' height = '640px'> |
+DRAGAN | <img src = './assests/DRAGAN.png' width = '640px' height = '640px'> | <img src = './assests/RaDRAGAN.png' width = '640px' height = '640px'> |
 
-### RaLSGAN
-![RaLSGAN](./assests/RaLSGAN.png)
-
-### RaDRAGAN
-![RaDRAGAN](./assests/RaDRAGAN.png)
-
-### RaHingeGAN
-![RaHingeGAN](./assests/RaHingeGAN.png)
 
 ## Author
 Junho Kim
