@@ -63,7 +63,7 @@ Simple Tensorflow implementation of [RelativisticGAN](https://arxiv.org/pdf/1807
 
 *Name* | *Original* | *Original + Ra* |
 :---: | :---: | :---: |
-GAN | Will be soon | <img src = './assests/RaGAN.png' width = '640px' height = '640px'> |
+GAN | Will be soon | <img src = './assests/RGAN.png' width = '640px' height = '640px'> |
 LSGAN | Will be soon | <img src = './assests/RaLSGAN.png' width = '640px' height = '640px'> |
 HingeGAN | Will be soon | <img src = './assests/RaHingeGAN.png' width = '640px' height = '640px'> |
 DRAGAN | <img src = './assests/DRAGAN.png' width = '640px' height = '640px'> | <img src = './assests/RaDRAGAN.png' width = '640px' height = '640px'> |
